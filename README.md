@@ -1,2 +1,2 @@
-## UpGlobe
+## Coming soon
 
