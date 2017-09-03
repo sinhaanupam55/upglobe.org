@@ -1,0 +1,2 @@
+# upglobe.org
+Static webpage
